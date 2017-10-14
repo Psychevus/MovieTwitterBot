@@ -5,7 +5,7 @@ package config;
  */
 public class ConfigBot {
 
-    public static String API_KEY = "?api_key=22e8cbdb4f41f8ed0a25087567449d04";
+    public static String API_KEY = "TWITTER_TOKEN";
 
 
 }
